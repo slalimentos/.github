@@ -25,4 +25,3 @@ Este espaço no GitHub concentra nossas iniciativas de tecnologia, automação e
 
 * **📍 Unidade Fabril:** Rodovia do Café, BR-376, Km 239 — Mauá da Serra - PR, Brasil
 * **🌐 Website Oficial:** [slpart.com.br](https://slpart.com.br)
-* **✉️ E-mail de Contato:** contato@slpart.com.br
